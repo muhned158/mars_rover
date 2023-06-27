@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="085fe0fe-efa8-44a7-9e73-d692cfef442f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit3 Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Tools\repo" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Tools/apache-maven-3.8.5" />
+        <option name="userSettingsFile" value="E:\Tools\apache-maven-3.8.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2RiVTYMgH46O5eIgZ5glfJBYWqY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "junit.framework.TestCase",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "E:/WorkSpaces/mars_rover",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "MavenSettings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="fr.bnp.services" />
+      <recent name="fr.bnp.services.instruction.impl" />
+      <recent name="fr.bnp.models" />
+      <recent name="fr.bnp.exceptions" />
+      <recent name="fr.bnp.constants" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RoverServiceTest.testDifferentStartingPosition">
+    <configuration name="RoverApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.bnp.rover.RoverApplication" />
+      <module name="mars_rover" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.bnp.rover.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoverServiceTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mars_rover" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.bnp.rover.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fr.bnp.rover.services" />
+      <option name="MAIN_CLASS_NAME" value="fr.bnp.rover.services.RoverServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoverServiceTest.testDifferentStartingPosition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mars_rover" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.bnp.rover.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fr.bnp.rover.services" />
+      <option name="MAIN_CLASS_NAME" value="fr.bnp.rover.services.RoverServiceTest" />
+      <option name="METHOD_NAME" value="testDifferentStartingPosition" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoverServiceTest.testInitialPosition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mars_rover" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.bnp.rover.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fr.bnp.rover.services" />
+      <option name="MAIN_CLASS_NAME" value="fr.bnp.rover.services.RoverServiceTest" />
+      <option name="METHOD_NAME" value="testInitialPosition" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoverServiceTest.testTurningLeft" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mars_rover" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.bnp.rover.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fr.bnp.rover.services" />
+      <option name="MAIN_CLASS_NAME" value="fr.bnp.rover.services.RoverServiceTest" />
+      <option name="METHOD_NAME" value="testTurningLeft" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RoverServiceTest.testDifferentStartingPosition" />
+        <item itemvalue="Application.RoverApplication" />
+        <item itemvalue="JUnit.RoverServiceTest (1)" />
+        <item itemvalue="JUnit.RoverServiceTest.testInitialPosition" />
+        <item itemvalue="JUnit.RoverServiceTest.testTurningLeft" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="085fe0fe-efa8-44a7-9e73-d692cfef442f" name="Changes" comment="" />
+      <created>1687732896633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687732896633</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mars_rover$RoverServiceTest_testDifferentStartingPosition.ic" NAME="RoverServiceTest.testDifferentStartingPosition Coverage Results" MODIFIED="1687852441734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>fr.bnp.rover.services.*</FILTER>
+    </SUITE>
+  </component>
+</project>
